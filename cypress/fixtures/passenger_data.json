@@ -1,23 +1,23 @@
 {
-  "TRAIN_NO": "13185",
+  "TRAIN_NO": "06282",
   "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "24/08/2024",
-  "SOURCE_STATION": "SDAH",
+  "TRAVEL_DATE": "26/05/2025",
+  "SOURCE_STATION": "AII",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "DBG",
+  "DESTINATION_STATION": "PUNE",
   "TATKAL": true,
   "PREMIUM_TATKAL": false,
-  "UPI_ID_CONFIG": "",
+  "UPI_ID_CONFIG": "nitesh.sarda16@okicici",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
+      "NAME": "Nitesh",
       "AGE": 26,
       "GENDER": "Male",
-      "SEAT": "No Preference",
+      "SEAT": "Upper",
       "FOOD": "No Food"
     },
     {
-      "NAME": "Shivam Dubey",
+      "NAME": "Neelam",
       "AGE": 26,
       "GENDER": "Female",
       "SEAT": "No Preference",
